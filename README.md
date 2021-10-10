@@ -6,5 +6,5 @@
 - 👋 Hi, I’m @SoupSurvival
 - 👀 I’m interested in Lua and Python. 
 - 🌱 I’m currently learning random codes. 
-- 💞️ I’m looking to collaborate on anything. 
+- 👨🏻‍🤝‍👨🏻 I’m looking to collaborate on anything. 
 - 📫 How to reach me soupsurvivalminecraft@gmail.com
